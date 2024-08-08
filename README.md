@@ -35,5 +35,5 @@ Planes - Feature Engineering #3 - Total Air Time Times.ipynb: The main Jupyter N
 * Jupyter Notebook
 * SQL Server
 
-**Necessary Python libraries: **
+**Necessary Python libraries:**
 pandas, numpy, matplotlib, seaborn, sqlite3
