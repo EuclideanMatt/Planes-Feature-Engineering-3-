@@ -17,10 +17,10 @@ Planes - Feature Engineering #3 - Total Air Time Times.ipynb: The main Jupyter N
 * Provides an overview of the data and unique flight routes.
 
 **Feature Engineering:**
-*Calculates distances between locations using the Haversine formula based on latitude and longitude.
-*Applies a speed ratio to estimate total air time.
-*Deconstructs flight routes and calculates total air time for each route segment.
-*Calculates layover times by subtracting total air time from the total duration.
+* Calculates distances between locations using the Haversine formula based on latitude and longitude.
+* Applies a speed ratio to estimate total air time.
+* Deconstructs flight routes and calculates total air time for each route segment.
+* Calculates layover times by subtracting total air time from the total duration.
 
 **Data Export:** 
 * Saves the cleaned and engineered dataset back to the SQL Server database.
